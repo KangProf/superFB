@@ -1,4 +1,4 @@
-# cara penggunaan
+# Cara Penggunaan
 
 $ termux-setup-storage
 
@@ -39,3 +39,7 @@ lalu enter
 ![Screenshot_2021-08-23-06-02-44-225_com termux](https://user-images.githubusercontent.com/77473259/130373909-a79a18a6-bb82-49bf-b6c2-2753f2dc76ef.jpg)
 
 dan done.
+
+# Cara mendapatkan Access token FB
+
+https://tutorkhusus.000webhostapp.com/token.html
