@@ -5,6 +5,8 @@ Adalah tools crack super cepat dalam hitungan detik
 
 # Cara Penggunaan
 
+$ pkg install python
+
 $ termux-setup-storage
 
 $ cd /sdcard
