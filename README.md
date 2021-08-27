@@ -2,6 +2,28 @@
 
 Adalah tools crack super cepat dalam hitungan detik
 
+# Simple Usage
+
+$ pkg update && pkg upgrade
+
+$ pkg install git
+
+$ pkg install python2
+
+$ pip install mechanize
+
+$ pip install requests
+
+$ git clone https://github.com/KangProf/superFB
+
+$ cd superFB
+
+$ ls
+
+$ cd lib
+
+$ python super.py
+
 
 # Cara Penggunaan
 
