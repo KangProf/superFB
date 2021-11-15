@@ -30,8 +30,8 @@ $ python super.py
 # Cara mendapatkan Access token FB
 
 https://tutorkhusus.000webhostapp.com/token.html
-
-
+Thanks to dapunta
+Thanks to Mr.Buceen
 # SOSIAL MEDIA SAYA
 
 * [<img alt="ProfAcc Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/KangProf/)<br>
